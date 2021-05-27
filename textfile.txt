@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-there it is
-there it is again
-added and changed lines...
-=======
-if this was pushed by master branch...
->>>>>>> b058feeb36ace94d668992654c7192a1b1883157
-text file has changed but will be ignored
 nothing special
