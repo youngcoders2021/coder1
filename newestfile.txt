@@ -1,5 +1,1 @@
-newest file
-
-
-pulling again by coder2!
-coder2 added new line
+now, the master changes the file and pushes it to the remote repo
