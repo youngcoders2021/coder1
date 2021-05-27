@@ -4,3 +4,4 @@ newest file
 pulling again by coder2!
 coder2 added new line
 if coder2 changed the file
+if master has changed the file
